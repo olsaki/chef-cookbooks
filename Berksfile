@@ -1,0 +1,3 @@
+                                                                                                                              isite :opscode
+
+cookbook 'jenkins'
